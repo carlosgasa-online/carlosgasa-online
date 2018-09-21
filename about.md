@@ -12,4 +12,4 @@ Estudiante de Ingeniería en Computación en la Universidad Autonoma de Zacateca
 
 ### Contactame
 
-[email@domain.com](mailto:carlos.oficial.uaz@gmail.com)
+[carlos.oficial.uaz@gmail.com](mailto:carlos.oficial.uaz@gmail.com)
